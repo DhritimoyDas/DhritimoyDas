@@ -9,3 +9,6 @@ How will you get my Discord? Ans: Just add me by copying the id from here which 
 DhritimoyDas/DhritimoyDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center">
+<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
+</p>
