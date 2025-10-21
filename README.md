@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student<br>I am interested in learning CyberSecurity<br>I am taking courses like CEHv12 and CompTIA S+<br>I am mostly doing Python
+I am currently a student<br>I am interested in learning CyberSecurity<br>I am taking courses like CEHv13 and CompTIA S+<br>I mostly code in Python
 
 
 # 💻 Tech Stack:
